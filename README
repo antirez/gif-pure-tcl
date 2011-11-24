@@ -1,0 +1,4 @@
+This is a pure TCL GIF encoder.
+
+The mandel.tcl file is just an example program using gif.tcl to generate
+a fractal in gif format.
